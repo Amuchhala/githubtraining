@@ -2,3 +2,5 @@ this is chat appplication
 
 emoji
 typing option
+dark mode
+video calls
